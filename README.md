@@ -70,7 +70,7 @@ Here are a few highlights from my work:
   A complete backend subscription API 
 
 - **[Project 3: Video/meeting conferencing clone Next.js + Tailwind + clerk App]**
-  Fullstack Next.js Video/Meeting conferencing App
+   Fullstack Next.js Video/Meeting conferencing App
 
     
 *(check out more in my pinned repositories!)*  
@@ -93,6 +93,6 @@ Here are a few highlights from my work:
 ---
 
 ## 📬 Connect with Me
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/danielidokodev)  
+- 💼 LinkedIn: (https://linkedin.com/in/danielidokodev)  
 
 ⭐️ From Daniel Idoko(https://github.com/DanielIdoko)
