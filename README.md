@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Daniel
+# Hi there, I'm Daniel
 
-🚀 **Full-Stack Developer** | 💻 **MERN • Go • Python • Next.js • React** | 🐳 **Docker Enthusiast**  
+🚀 **Full-Stack Developer** | 💻 **MERN • Go • Python • Next.js • React • React Native ** | 🐳 **Docker Enthusiast**  
 
 ---
 
@@ -22,11 +22,12 @@ I thrive at the intersection of **problem-solving** and **engineering**, taking 
 
 ### 🌐 Frontend
 - **React.js**
+- **React Native**
 - **Next.js**
 - **Tailwind CSS**
 - **JavaScript (ES6+)**
 - **TypeScript**
-- State Management: Redux, Zustand
+- State Management: **Redux**, **Zustand**
 
 ### ⚙️ Backend
 - **Node.js & Express**
@@ -41,6 +42,7 @@ I thrive at the intersection of **problem-solving** and **engineering**, taking 
 
 ### 🐳 DevOps & Tools
 - **Docker**
+- **Clerk**
 - Git & GitHub/GitLab
 - RESTful API design
 - Basic CI/CD pipelines
@@ -67,14 +69,12 @@ Here are a few highlights from my work:
 
 
 - **[Project 1: Backend Nodejs Service]**  
-  A complete backend subscription API 
+  A complete backend subscription API that allows users to sign in, sign out and manage their subscriptions of any category such as Netflix etc.  
 
 - **[Project 3: Video/meeting conferencing clone Next.js + Tailwind + clerk App]**
-   Fullstack Next.js Video/Meeting conferencing App
+  A Fullstack Next.js + Clerk(Authentication) + ShadcnUI Video/Meeting conferencing App that allows users to signup, login, create rooms, enter meeetings, record meetings and others.
 
-    
 *(check out more in my pinned repositories!)*  
-
 ---
 
 ## 🎯 What I'm Focusing On
@@ -86,13 +86,12 @@ Here are a few highlights from my work:
 ---
 
 ## 🌱 Fun Facts
-- 💡 I started as a frontend developer and fell in love with backend systems later.  
-- 🧩 I enjoy solving algorithmic challenges in my free time.  
-- 🎶 Coding keeps me focused while coding.  
+- 💡 I started as a frontend developer and fell in love with backend systems later.    
+- ✨ Coding keeps me focused while coding.  
 
 ---
 
 ## 📬 Connect with Me
 - 💼 LinkedIn: (https://linkedin.com/in/danielidokodev)  
-
-⭐️ From Daniel Idoko(https://github.com/DanielIdoko)
+- 📧 Email: danielidoko46@gmail.com
+⭐️  From Daniel Idoko(https://github.com/DanielIdoko)
