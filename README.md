@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 
 I'm a passionate **Full-Stack Developer** with **3+ years of experience in Frontend** and **1+ year in Backend development**.  
-I love building scalable applications, clean UI/UX experiences, and backend systems that just work.  
+I love building scalable applications, clean UI/UX experiences, and backend systems that just work and are production ready.  
 
 I thrive at the intersection of **problem-solving** and **engineering**, taking ideas from concept to production.  
 
@@ -24,9 +24,12 @@ I thrive at the intersection of **problem-solving** and **engineering**, taking 
 - **React.js**
 - **React Native**
 - **Next.js**
-- **Tailwind CSS**
-- **JavaScript (ES6+)**
 - **TypeScript**
+- **JavaScript (ES6+)**
+- **Shadcn UI**
+- **Material UI**
+- **Tailwind CSS**
+- **Sass**
 - State Management: **Redux**, **Zustand**
 
 ### ⚙️ Backend
@@ -37,12 +40,12 @@ I thrive at the intersection of **problem-solving** and **engineering**, taking 
 
 ### 🗄 Databases
 - **MongoDB**
-- **MySQL**
 - Redis (caching, sessions)
 
 ### 🐳 DevOps & Tools
 - **Docker**
 - **Clerk**
+- **Expo go**
 - Git & GitHub/GitLab
 - RESTful API design
 - Basic CI/CD pipelines
