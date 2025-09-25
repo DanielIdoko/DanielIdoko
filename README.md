@@ -1,10 +1,10 @@
 # Hi there, I'm Daniel
 
-🚀 **Full-Stack Developer** | 💻 **MERN • Go • Python • Next.js • React • React Native ** | 🐳 **Docker Enthusiast**  
+**Full-Stack Developer** | 💻 **MERN • Go • Python • Next.js • React • TypeScript • React Native ** | 🐳 **Docker Enthusiast**  
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a passionate **Full-Stack Developer** with **3+ years of experience in Frontend** and **1+ year in Backend development**.  
 I love building scalable applications, clean UI/UX experiences, and backend systems that just work and are production ready.  
@@ -20,7 +20,7 @@ I thrive at the intersection of **problem-solving** and **engineering**, taking 
 
 ## 🛠 Tech Stack & Tools
 
-### 🌐 Frontend
+### Frontend
 - **React.js**
 - **React Native**
 - **Next.js**
@@ -32,13 +32,13 @@ I thrive at the intersection of **problem-solving** and **engineering**, taking 
 - **Sass**
 - State Management: **Redux**, **Zustand**
 
-### ⚙️ Backend
+### Backend
 - **Node.js & Express**
 - **MongoDB + Mongoose**
 - **Golang (REST APIs, concurrency)**
 - **Python (Django)**
 
-### 🗄 Databases
+### Databases
 - **MongoDB**
 - Redis (caching, sessions)
 
@@ -66,10 +66,9 @@ I thrive at the intersection of **problem-solving** and **engineering**, taking 
 
 ---
 
-## 🔥 Projects
+## 🔥 Top Projects
 
 Here are a few highlights from my work:
-
 
 - **[Project 1: Backend Nodejs Service]**  
   A complete backend subscription API that allows users to sign in, sign out and manage their subscriptions of any category such as Netflix etc.  
