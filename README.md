@@ -47,8 +47,9 @@ I thrive at the intersection of **problem-solving** and **engineering**, taking 
 - **Clerk**
 - **Expo go**
 - Git & GitHub/GitLab
-- RESTful API design
+- RESTful and GraphQL API design
 - Basic CI/CD pipelines
+- Payment integrations
 - Postman / Thunder Client
 
 ### ☁️ Cloud / Deployment
