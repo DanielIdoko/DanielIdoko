@@ -74,18 +74,14 @@ Here are a few highlights from my work:
 - **[Project 1: Backend Nodejs Service]**  
   A complete backend subscription API that allows users to sign in, sign out and manage their subscriptions of any category such as Netflix etc.  
 
+- **[Project 1: Memories]**  
+  A React Native memories saver app  
+
 - **[Project 3: Video/meeting conferencing clone Next.js + Tailwind + clerk App]**
   A Fullstack Next.js + Clerk(Authentication) + ShadcnUI Video/Meeting conferencing App that allows users to signup, login, create rooms, enter meeetings, record meetings and others.
 
-*(check out more in my pinned repositories!)*  
+*(check out more on my pinned repositories!)*  
 ---
-
-## 🎯 What I'm Focusing On
-- Scaling applications with **Docker**  
-- Writing highly concurrent backend services in **Nodej and Go**  
-- Building beautiful, accessible UIs with **React + TailwindCSS + Shadcn + MUI + ChakraUI**  
-- Exploring **system architecture & design patterns**  
-
 ---
 
 ## 🌱 Fun Facts
