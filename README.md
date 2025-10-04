@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate **Full-Stack Developer** with **2+ years of experience in Frontend** and **1+ year in Backend development**.  
+I'm a passionate **Full-Stack Developer** with **3+ years of experience in Frontend** and **1 year in Backend development**.  
 I love building scalable applications, clean UI/UX experiences, and backend systems that just work and are production ready.  
 
 I thrive at the intersection of **problem-solving** and **engineering**, taking ideas from concept to production.  
@@ -59,13 +59,6 @@ I thrive at the intersection of **problem-solving** and **engineering**, taking 
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielIdoko&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielIdoko&layout=compact&theme=tokyonight)
-
----
 
 ## 🔥 Top Projects
 
@@ -86,7 +79,7 @@ Here are a few highlights from my work:
 
 ## 🌱 Fun Facts
 - 💡 I started as a frontend developer and fell in love with backend systems later.    
-- ✨ Coding keeps me focused while coding.  
+- ✨ Music keeps me focused while coding.  
 
 ---
 
