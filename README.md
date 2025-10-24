@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel
 
-**Full-Stack software engineer** | 💻 **MERN • Go • Python • Next.js • React • TypeScript • React Native ** | 🐳 Docker * Redis
+**Full-Stack developer** | 💻 **MERN • Go • Python • Next.js • React • TypeScript • React Native ** | Docker * Redis
 ---
 check out my portfolio - (https://daniel-idoko-portfolio.vercel.app)
 
@@ -53,6 +53,7 @@ I thrive at the intersection of **problem-solving** and **engineering**, taking 
 
 ### ☁️ Cloud / Deployment
 - Vercel (Next.js apps)
+- Cloudinary
 - Netlify
 - Basic AWS (EC2, S3, Lambda)
 
