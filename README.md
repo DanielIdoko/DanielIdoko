@@ -1,8 +1,8 @@
-# Hi there, I'm Daniel
+# 👋 Hi there, I'm Daniel
 
 **Full-Stack developer** | 💻 **MERN • Go • Python • Next.js • React • TypeScript • React Native ** | Docker * Redis
 ---
-check out my portfolio - (https://daniel-idoko-portfolio.vercel.app)
+Know more about me at my portfolio -> (https://daniel-idoko-portfolio.vercel.app)
 
 ## About Me
 
