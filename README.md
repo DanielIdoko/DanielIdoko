@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Daniel
 
-**Full-Stack developer** | 💻 **MERN • Go • Python • Next.js • React • TypeScript • React Native ** | Docker * Redis
+**Full stack developer | Go enthuiast**
 ---
-Know more about me at my portfolio -> (https://daniel-idoko-portfolio.vercel.app)
+My portfolio -> (https://daniel-idoko-portfolio.vercel.app)
 
 ## About Me
 
-I'm a passionate **Full-Stack Developer** with 3 years of experience hands on building scalable user experiences and backend systems that work and are production ready.  
+I'm a passionate **Full-Stack Developer** (Frontend Focused) with 3 years of experience hands on building scalable user experiences and backend systems that work and are production ready.  
 
 I thrive at the intersection of **problem-solving** and **engineering**, taking ideas from concept to production.  
 
