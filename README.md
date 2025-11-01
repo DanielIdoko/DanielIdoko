@@ -4,9 +4,9 @@
 
 > Building scalable digital experiences that connect ideas to impact.
 
-🌐 **[My Portfolio →](https://daniel-idoko-portfolio.vercel.app)**  
-📍 Lagos, Nigeria  
-📧 **danielidoko46@gmail.com**
+**[My Portfolio](https://daniel-idoko-portfolio.vercel.app)**  
+Location: Lagos, Nigeria  
+Email:  **danielidoko46@gmail.com**
 
 ---
 
