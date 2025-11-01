@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm **Daniel Idoko**
 
-**💻 Full Stack Developer | 🚀 Go Enthusiast | ☁️ Cloud Explorer**
+**💻 Full Stack Developer | Go Enthusiast | ☁️ Cloud & Blockchain Explorer**
 
 > Building scalable digital experiences that connect ideas to impact.
 
 **[My Portfolio](https://daniel-idoko-portfolio.vercel.app)**  
-Location: Lagos, Nigeria  
-Email:  **danielidoko46@gmail.com**
+Lagos, Nigeria  
+**Email**: danielidoko46@gmail.com
 
 ---
 
@@ -15,11 +15,19 @@ Email:  **danielidoko46@gmail.com**
 I'm a **Full-Stack Developer** (Frontend-Focused) with **3 years of hands-on experience** crafting scalable, user-focused applications and backend systems.  
 I love transforming ideas into production-ready products with clean architecture and modern tools.
 
+💡 I thrive where **engineering meets creativity**, bringing code to life with attention to performance, design, and user experience.
+
+- 🔭 Currently exploring **System Design**, **Cloud-Native Apps**, and **Blockchain Technologies**
+- 🤝 Open to **freelance**, **open-source**, and **collaboration opportunities**
+- ☁️ Expanding my knowledge on **AWS**, **GCP**, and **distributed systems**
+
+---
+
 ## 🧰 Tech Stack & Tools
 
 ### 🚀 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,nodejs,express,go,python,django&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,nodejs,express,go,python,django,solidity&theme=dark" />
 </p>
 
 ### 🎨 UI & Styling  
@@ -34,7 +42,7 @@ I love transforming ideas into production-ready products with clean architecture
 
 ### ⚙️ DevOps / Tools / Cloud  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,git,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,netlify,git,github,postman&theme=dark" />
 </p>
 
 ### 💡 Other Expertise  
@@ -42,26 +50,27 @@ I love transforming ideas into production-ready products with clean architecture
 > **Auth:** Clerk, JWT  
 > **APIs:** REST, GraphQL  
 > **Payments:** Paystack, Stripe (basic)  
-> **Deployment:** Vercel, Netlify, Cloudinary  
+> **Blockchain:** Solidity, Smart Contracts, Web3.js, Ethers.js  
+> **Cloud:** AWS, GCP, Cloudinary, Vercel, Netlify  
 > **CI/CD:** Basic Pipelines, Docker Containers  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🔹 [Backend Subscription Service (Node.js)](https://github.com/DanielIdoko)
+### [Backend Subscription Service (Node.js)](https://github.com/DanielIdoko)
 A complete backend API that enables users to manage subscriptions for multiple categories (like Netflix, Spotify, etc.)  
 **Tech:** Node.js, Express, MongoDB, JWT  
 
 ---
 
-### 🔹 [Memories App (React Native)](https://github.com/DanielIdoko)
+### [Memories App (React Native)](https://github.com/DanielIdoko)
 A personal memory-saving mobile app with image uploads, search, and cloud sync.  
 **Tech:** React Native, Expo, Zustand, Cloudinary  
 
 ---
 
-### 🔹 [Zoom Clone (Next.js + Clerk)](https://github.com/DanielIdoko)
+### [Zoom Clone (Next.js + Clerk)](https://github.com/DanielIdoko)
 A fullstack **Video Conferencing** app with authentication, meeting creation, recordings, and chat.  
 **Tech:** Next.js, Clerk, ShadcnUI, Tailwind, Stream  
 
@@ -73,9 +82,9 @@ A fullstack **Video Conferencing** app with authentication, meeting creation, re
 
 ## 🌱 What I’m Focusing On
 - 🏗 Strengthening my **Go** backend development  
-- ☁️ Deploying **microservices** on AWS  
-- 🔐 Building **secure, scalable systems**  
-- 🧩 Exploring **Web3** and **Cloud Computing**
+- ☁️ Deploying **microservices** on AWS & GCP  
+- 🔗 Building **Web3 apps** and **smart contracts**  
+- 🔐 Developing **secure, scalable systems**
 
 ---
 
