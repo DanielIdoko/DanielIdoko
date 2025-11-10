@@ -115,4 +115,4 @@ A fullstack **Video Conferencing** app with authentication, meeting creation, re
 
 ### 🌟 “Code is art — and every project is a chance to paint something impactful.”  
 
-<p align="center">✨ From <a href="https://github.com/DanielIdoko">Daniel Idoko</a> ✨</p>
+<p align="center">From <a href="https://github.com/DanielIdoko">Daniel Idoko</a> ✨</p>
