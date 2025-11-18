@@ -88,7 +88,7 @@ A fullstack **Video Conferencing** app with authentication, meeting creation, re
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Let's connect
 
 <p align="center">
   <a href="https://linkedin.com/in/danielidokodev">
