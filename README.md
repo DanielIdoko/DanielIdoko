@@ -105,13 +105,6 @@ A fullstack **Video Conferencing** app with authentication, meeting creation, re
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielIdoko&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌟 “Code is art — and every project is a chance to paint something impactful.”  
 
