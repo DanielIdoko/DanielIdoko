@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Daniel Idoko**
+# 👋 Hola, I'm **Daniel**
 
 **💻 Full Stack Developer | Go Enthusiast | ☁️ Cloud & Blockchain Explorer**
 
