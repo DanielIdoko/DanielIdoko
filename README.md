@@ -66,13 +66,13 @@ A complete backend API that enables users to manage subscriptions for multiple c
 
 ### [Memories App (React Native)](https://github.com/DanielIdoko)
 A personal memory-saving mobile app with image uploads, search, and cloud sync.  
-**Tech:** React Native, Expo, Zustand, Cloudinary  
+**Tech:** React Native, Expo, Next.js, Zustand, Firebase, GCP, Tailwindcss.  
 
 ---
 
 ### [Zoom Clone (Next.js + Clerk)](https://github.com/DanielIdoko)
 A fullstack **Video Conferencing** app with authentication, meeting creation, recordings, and chat.  
-**Tech:** Next.js, Clerk, ShadcnUI, Tailwind, Stream  
+**Tech:** Next.js, Clerk, ShadcnUI, Tailwind, Stream.
 
 ---
 
