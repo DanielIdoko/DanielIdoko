@@ -1,6 +1,6 @@
-# 👋 Hola, I'm **Daniel**
+# 👋 Hi there, I'm **Daniel**
 
-**💻 Full Stack Developer | Go Enthusiast | ☁️ Cloud & Blockchain Explorer**
+** Full Stack Developer | Go Enthusiast | ☁️ Cloud & Blockchain Explorer**
 
 > Building scalable digital experiences that connect ideas to impact.
 
