@@ -47,7 +47,7 @@ I love transforming ideas into production-ready products with clean architecture
 
 ### 💡 Other Expertise  
 > **State Management:** Redux, Zustand  
-> **Auth:** Clerk, JWT  
+> **Auth:** Clerk, JWT, OAuth, NextAuth
 > **APIs:** REST, GraphQL  
 > **Payments:** Paystack, Stripe (basic)  
 > **Blockchain:** Solidity, Smart Contracts, Web3.js, Ethers.js  
