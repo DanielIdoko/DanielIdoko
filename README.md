@@ -37,7 +37,7 @@ I love transforming ideas into production-ready products with clean architecture
 
 ### 🗃️ Databases & Backend Tech  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,postgresql,elasticdb,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mongodb,redis&theme=dark" />
 </p>
 
 ### ⚙️ DevOps / Tools / Cloud  
