@@ -27,7 +27,7 @@ I love transforming ideas into production-ready products with clean architecture
 
 ### 🚀 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,nodejs,express,go,python,django,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,hono,reactnative,nodejs,express,go,python,fastapi,django,solidity&theme=dark" />
 </p>
 
 ### 🎨 UI & Styling  
