@@ -49,10 +49,10 @@ I love transforming ideas into production-ready products with clean architecture
 > **State Management:** Redux, Zustand  
 > **Auth:** Clerk, JWT, OAuth, NextAuth
 > **APIs:** REST, GraphQL  
-> **Payments:** Paystack, Stripe (basic)  
+> **Payments:** Paystack, Flutterwave, Stripe (basic)  
 > **Blockchain:** Solidity, Smart Contracts, Web3.js, Ethers.js  
-> **Cloud:** AWS, GCP, Cloudinary, Vercel, Netlify  
-> **CI/CD:** Basic Pipelines, Docker Containers  
+> **Cloud:** AWS, GCP, Cloudinary, Vercel, Netlify, Cloudflare  
+> **CI/CD:** Basic Pipelines, Docker Containers, Kubernetes  
 
 ---
 
