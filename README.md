@@ -32,12 +32,12 @@ I love transforming ideas into production-ready products with clean architecture
 
 ### 🎨 UI & Styling  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,css,bootstrap,chakraui,acternityui,materialui,sass&theme=dark" />
 </p>
 
 ### 🗃️ Databases & Backend Tech  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sqlite,drizzle,postgresql,mongodb,redis&theme=dark" />
 </p>
 
 ### ⚙️ DevOps / Tools / Cloud  
