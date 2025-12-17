@@ -27,17 +27,17 @@ I love transforming ideas into production-ready products with clean architecture
 
 ### 🚀 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,reactnative,nodejs,express,go,python,fastapi,django,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,nodejs,express,go,python,fastapi,django,solidity&theme=dark" />
 </p>
 
 ### 🎨 UI & Styling  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,css,bootstrap,chakraui,acternityui,materialui,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,css,bootstrap,materialui,sass&theme=dark" />
 </p>
 
 ### 🗃️ Databases & Backend Tech  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,drizzle,postgresql,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sqlite,drizzleorm,postgresql,mongodb,redis&theme=dark" />
 </p>
 
 ### ⚙️ DevOps / Tools / Cloud  
