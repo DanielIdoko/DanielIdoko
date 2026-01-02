@@ -16,7 +16,7 @@ I am a **Full-Stack Software Engineer** with **3+ years of hands-on experience**
 My work emphasizes **clean architecture**, **performance**, and **maintainability**, with a strong focus on system design and production-ready engineering.
 
 **Currently focused on**
-- Backend engineering with **Go** and Node.js  
+- Backend engineering with **Go**, Node.js, and **Hono.js**
 - **System design** and distributed systems  
 - **Cloud-native** application development  
 - Blockchain and smart contract engineering  
@@ -29,7 +29,7 @@ Open to **freelance**, **open-source**, and **collaborative engineering roles**.
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,python,react,nextjs,svelte,nodejs,express,fastapi,django,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,python,react,nextjs,svelte,nodejs,express,hono,fastapi,django,solidity&theme=dark" />
 </p>
 
 ### UI & Styling
@@ -39,12 +39,12 @@ Open to **freelance**, **open-source**, and **collaborative engineering roles**.
 
 ### Databases & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite,&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,vercel,netlify,git,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,vercel,netlify,git,github,postman,bash&theme=dark" />
 </p>
 
 ### Additional Expertise
@@ -53,6 +53,7 @@ Open to **freelance**, **open-source**, and **collaborative engineering roles**.
 - **State Management:** Redux, Zustand  
 - **Payments:** Paystack, Flutterwave, Stripe (basic)  
 - **Blockchain:** Smart Contracts, Web3.js, Ethers.js  
+- **Cloud Datastores:** DynamoDB, Redis  
 - **CI/CD:** Dockerized pipelines, basic Kubernetes usage  
 
 ---
@@ -83,6 +84,7 @@ Full-stack video conferencing application with authentication, meetings, recordi
 
 ## Current Focus
 - Advanced **Go** backend development  
+- High-performance APIs with **Hono.js**  
 - Designing and deploying **microservices**  
 - Cloud infrastructure on **AWS and GCP**  
 - Secure and scalable system architecture  
