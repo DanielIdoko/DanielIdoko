@@ -1,111 +1,111 @@
-# Hi there, I'm **Daniel**
+# Daniel Idoko  
+**Full-Stack Software Engineer (Backend-Focused) | Go Developer | Cloud & Blockchain**
 
-**Full Stack Developer (Backend heavy) | Go Enthusiast | ☁️ Cloud & Blockchain Explorer**
+> Building scalable, production-grade systems that turn ideas into reliable products.
 
-> Building scalable digital experiences that connect ideas to impact.
-
-**[My Portfolio](https://daniel-idoko-portfolio.vercel.app)**  
-Lagos, Nigeria  
-**Email**: danielidoko46@gmail.com
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Developer** (Frontend-Focused) with **3 years of hands-on experience** crafting scalable, user-focused applications and backend systems.  
-I love transforming ideas into production-ready products with clean architecture and modern tools.
-
-💡 I thrive where **engineering meets creativity**, bringing code to life with attention to performance, design, and user experience.
-
-- 🔭 Currently exploring **System Design**, **Cloud-Native Apps**, and **Blockchain Technologies**
-- 🤝 Open to **freelance**, **open-source**, and **collaboration opportunities**
-- ☁️ Expanding my knowledge on **AWS**, **GCP**, and **distributed systems**
+🌍 **Lagos, Nigeria**  
+📧 **Email:** danielidoko46@gmail.com  
+🔗 **Portfolio:** https://daniel-idoko-portfolio.vercel.app  
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Profile
 
-### 🚀 Languages & Frameworks  
+I am a **Full-Stack Software Engineer** with **3+ years of hands-on experience** designing and building scalable web applications and backend systems. I specialize in backend development while maintaining strong full-stack capabilities.
+
+My work emphasizes **clean architecture**, **performance**, and **maintainability**, with a strong focus on system design and production-ready engineering.
+
+**Currently focused on**
+- Backend engineering with **Go** and Node.js  
+- **System design** and distributed systems  
+- **Cloud-native** application development  
+- Blockchain and smart contract engineering  
+
+Open to **freelance**, **open-source**, and **collaborative engineering roles**.
+
+---
+
+## Tech Stack
+
+### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,nodejs,express,go,python,fastapi,django,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,python,react,nextjs,svelte,nodejs,express,fastapi,django,solidity&theme=dark" />
 </p>
 
-### 🎨 UI & Styling  
+### UI & Styling
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,css,bootstrap,materialui,sass&theme=dark" />
 </p>
 
-### 🗃️ Databases & Backend Tech  
+### Databases & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite&theme=dark" />
 </p>
 
-### ⚙️ DevOps / Tools / Cloud  
+### Cloud, DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,vercel,netlify,git,github,postman&theme=dark" />
 </p>
 
-### 💡 Other Expertise  
-> **State Management:** Redux, Zustand  
-> **Auth:** Clerk, JWT, OAuth, NextAuth
-> **APIs:** REST, GraphQL  
-> **Payments:** Paystack, Flutterwave, Stripe (basic)  
-> **Blockchain:** Solidity, Smart Contracts, Web3.js, Ethers.js  
-> **Cloud:** AWS, GCP, Cloudinary, Vercel, Netlify, Cloudflare  
-> **CI/CD:** Basic Pipelines, Docker Containers, Kubernetes  
+### Additional Expertise
+- **APIs:** REST, GraphQL  
+- **Authentication:** JWT, OAuth, Clerk, NextAuth  
+- **State Management:** Redux, Zustand  
+- **Payments:** Paystack, Flutterwave, Stripe (basic)  
+- **Blockchain:** Smart Contracts, Web3.js, Ethers.js  
+- **CI/CD:** Dockerized pipelines, basic Kubernetes usage  
 
 ---
 
-## 🚀 Featured Projects  
+## Selected Projects
 
-### [Backend Subscription Service (Node.js)](https://github.com/DanielIdoko)
-A complete backend API that enables users to manage subscriptions for multiple categories (like Netflix, Spotify, etc.)  
-**Tech:** Node.js, Express, MongoDB, JWT  
-
----
-
-### [Memories App (React Native)](https://github.com/DanielIdoko)
-A personal memory-saving mobile app with image uploads, search, and cloud sync.  
-**Tech:** React Native, Expo, Next.js, Zustand, Firebase, GCP, Tailwindcss.  
+### Backend Subscription Service
+Scalable REST API for managing user subscriptions across multiple services.  
+**Stack:** Node.js, Express, MongoDB, JWT  
 
 ---
 
-### [Zoom Clone (Next.js + Clerk)](https://github.com/DanielIdoko)
-A fullstack **Video Conferencing** app with authentication, meeting creation, recordings, and chat.  
-**Tech:** Next.js, Clerk, ShadcnUI, Tailwind, Stream.
+### Memories Mobile App
+Cross-platform mobile app for saving and syncing personal memories with cloud storage.  
+**Stack:** React Native, Expo, Next.js, Firebase, GCP  
 
 ---
 
-⭐️ *Check out more on my [pinned repositories](https://github.com/DanielIdoko?tab=repositories)!*
+### Video Conferencing Platform
+Full-stack video conferencing application with authentication, meetings, recordings, and chat.  
+**Stack:** Next.js, Clerk, Tailwind CSS, Stream  
 
 ---
 
-## 🌱 What I’m Focusing On
-- 🏗 Strengthening my **Go** backend development  
-- ☁️ Deploying **microservices** on AWS & GCP  
-- 🔗 Building **Web3 apps** and **smart contracts**  
-- 🔐 Developing **secure, scalable systems**
+⭐ Explore more projects in my **pinned GitHub repositories**.
 
 ---
 
-## 📫 Let's connect
+## Current Focus
+- Advanced **Go** backend development  
+- Designing and deploying **microservices**  
+- Cloud infrastructure on **AWS and GCP**  
+- Secure and scalable system architecture  
+
+---
+
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/danielidokodev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:danielidoko46@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/DanielIdoko">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   </a>
   <a href="https://daniel-idoko-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" />
   </a>
 </p>
 
+---
 
-### 🌟 “Code is art — and every project is a chance to paint something impactful.”  
-
-<p align="center">From <a href="https://github.com/DanielIdoko">Daniel Idoko</a> ✨</p>
+**Well-engineered software is built to last.**
