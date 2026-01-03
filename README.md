@@ -1,5 +1,5 @@
 # Daniel Idoko  
-**Full-Stack Software Engineer (Backend-Focused) | Go Developer | Cloud & Blockchain**
+**Full-Stack Software Engineer (Backend-Focused) | Python & Javascript Developer | Cloud & Blockchain**
 
 > Building scalable, production-grade systems that turn ideas into reliable products.
 
@@ -48,8 +48,8 @@ Open to **freelance**, **open-source**, and **collaborative engineering roles**.
 </p>
 
 ### Additional Expertise
-- **APIs:** REST, GraphQL  
-- **Authentication:** JWT, OAuth, Clerk, NextAuth  
+- **APIs:** REST, GraphQL, gRPC
+- **Authentication:** JWT, OAuth, Clerk  
 - **State Management:** Redux, Zustand  
 - **Payments:** Paystack, Flutterwave, Stripe (basic)  
 - **Blockchain:** Smart Contracts, Web3.js, Ethers.js  
@@ -84,7 +84,7 @@ Full-stack video conferencing application with authentication, meetings, recordi
 
 ## Current Focus
 - Advanced **Go** backend development  
-- High-performance APIs with **Hono.js**  
+- High-performance APIs with **Hono.js & Expressjs**  
 - Designing and deploying **microservices**  
 - Cloud infrastructure on **AWS and GCP**  
 - Secure and scalable system architecture  
