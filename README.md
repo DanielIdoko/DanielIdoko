@@ -3,9 +3,9 @@
 
 > Building scalable, production-grade systems that turn ideas into reliable products.
 
-🌍 **Lagos, Nigeria**  
-📧 **Email:** danielidoko46@gmail.com  
-🔗 **Portfolio:** https://daniel-idoko-portfolio.vercel.app  
+**Lagos, Nigeria**  
+**Email:** danielidoko46@gmail.com  
+**Portfolio:** https://daniel-idoko-portfolio.vercel.app  
 
 ---
 
