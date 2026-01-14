@@ -11,9 +11,9 @@
 
 ## Profile
 
-I am a **Full-Stack Software Engineer** with **3+ years of hands-on experience** designing and building scalable web applications and backend systems. I specialize in backend development while maintaining strong full-stack capabilities.
+I am a **Full-Stack Software Engineer** with **3+ years of hands-on experience** designing and building scalable web, mobile applications and backend systems. I specialize in backend development while maintaining strong full-stack capabilities.
 
-My work emphasizes **clean architecture**, **performance**, and **maintainability**, with a strong focus on system design and production-ready engineering.
+My work emphasizes **clean architecture**, **performance**, **reliability**, **scalability**, and **maintainability**, with a strong focus on system design and production-ready engineering.
 
 **Currently focused on**
 - Backend engineering with **Go**, Node.js, and **Hono.js**
