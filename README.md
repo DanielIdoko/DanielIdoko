@@ -1,4 +1,4 @@
-# 👋Hi there, i'm Daniel
+# 👋Hello there, i'm Daniel
 **Full-Stack Software Engineer (Backend-Focused) | Python & Javascript Developer | Cloud & Blockchain**
 
 > Building scalable, production-grade systems that turn ideas into reliable products.
