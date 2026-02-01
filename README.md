@@ -1,7 +1,7 @@
 # 👋Hello there, i'm Daniel
 **Full-Stack Software Engineer (Backend-Focused) | Python & Javascript Developer | Cloud & Blockchain**
 
-> Building scalable, production-grade systems that turn ideas into reliable products.
+> Building scalable, reliable, standard and production-grade systems that turn ideas into reliable products.
 
 **Lagos, Nigeria**  
 **Email:** danielidoko46@gmail.com  
@@ -16,6 +16,7 @@ I am a **Full-Stack Software Engineer** with **3+ years of hands-on experience**
 My work emphasizes **clean architecture**, **performance**, **reliability**, **scalability**, and **maintainability**, with a strong focus on system design and production-ready engineering.
 
 **Currently focused on**
+- Fintech, ML and AI development.
 - Backend engineering with **Go**, Node.js, and **Hono.js**
 - **System design** and distributed systems  
 - **Cloud-native** application development  
