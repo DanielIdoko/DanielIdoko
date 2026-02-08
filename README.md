@@ -50,22 +50,16 @@ Open to **freelance**, **open-source**, and **collaborative engineering roles**.
 
 ### Additional Expertise
 - **APIs:** REST, GraphQL, gRPC
-- **Authentication:** JWT, OAuth, Clerk  
+- **Authentication:** JWT, OAuth, Clerk, Firebase Auth  
 - **State Management:** Redux, Zustand  
 - **Payments:** Paystack, Flutterwave, Stripe (basic)  
-- **Blockchain:** Smart Contracts, Web3.js, Ethers.js  
-- **Cloud Datastores:** DynamoDB, Redis  
+- **Blockchain:** Smart Contracts, Web3.js, Ethers.js   
+- **Cloud Datastores:** DynamoDB, Redis
 - **CI/CD:** Dockerized pipelines, basic Kubernetes usage  
 
 ---
 
 ## Selected Projects
-
-### Backend Subscription Service
-Scalable REST API for managing user subscriptions across multiple services.  
-**Stack:** Node.js, Express, MongoDB, JWT  
-
----
 
 ### Memories Mobile App
 Cross-platform mobile app for saving and syncing personal memories with cloud storage.  
